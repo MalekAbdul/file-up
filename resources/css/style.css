@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+}
+.nav-area{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.nav-area .nav-logo{
+    font-size: 60px;
+    color: #6ac990 !important;
+}
+.nav-area .nav-logo:hover{
+    color: #000;
+}
+.nav-menu-list li{
+    /*padding: 10px;*/
+    margin-right: 10px;
+}
+.nav-menu-list li:hover{
+    background: #6ac990;
+    border-radius: 10px;
+}
+.nav-area ul a{
+    color: #000;
+    padding: 5px;
+    font-size: 25px;
+}
+.nav-area a:hover{
+    color: #fff;
+}
+.nav-area ul button{
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    background: #6ac990;
+    margin-left: 100px;
+    width: 150px;
+}
+.nav-area ul button:hover{
+    color: #6ac990;
+    border: 1.5px solid #6ac990;
+    background: transparent;
+}
+.hero-area{
+    padding-top: 50px;
+    padding-bottom: 100px;
+    height: auto
+}
+.heading-format{
+    font-size: 55px;
+    padding: 10px;
+}
+.paragraph-format{
+    font-size: 30px;
+    padding: 40px 10px 40px 10px;
+}
+.hero-area .button-design{
+    font-size: 20px;
+    color: #fff;
+    background: #6ac990;
+    width: 200px;
+    margin-left: 10px;
+    height: 50px;
+}
+.hero-area button:hover{
+    color: #6ac990;
+    border: 1.5px solid #6ac990;
+    background: transparent;
+}
+.services{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    height: auto;
+}
+.service-box img{
+    width: 50px;
+    height: 50px;
+}
+.service-box h4{
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+.service-box button{
+    align-items: center;
+    background-color: #6ac990;
+    border-radius: 100px;
+    box-sizing: border-box;
+    color: #ffffff;
+    cursor: pointer;
+    display: inline-flex;
+    min-height: 40px;
+    overflow: hidden;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    vertical-align: middle;
+
+}
+.service-box button:hover{
+    color: #6ac990;
+    border: 1.5px solid #6ac990;
+    background: transparent;
+}
+.clients-problem-area{
+    padding-top: 50px;
+    height: auto;
+}
+.subscribe-area h2{
+    font-size: 50px;
+    margin-top: 100px;
+    padding: 10px;
+}
+.form{
+    width: 500px;
+    height: 50px;
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid #6ac990;
+}
+.social-menu ul{
+    display: flex;
+    margin: 0;
+    list-style: none;
+}
+i.icon{
+    color: #ffffff;
+    display: inline-block;
+    font-size: 30px;
+}
+.footer-area{
+    padding-top: 50px;
+    padding-bottom: 100px;
+    height: auto;
+}
+.footer-area h2{
+    font-size: 60px;
+    color: #6ac990;
+    padding: 10px 0px 10px 25px;
+}
+.footer-area p{
+    font-size: 20px;
+    padding: 10px 0px 10px 25px;
+}
+.social-menu li {
+    margin: 10px;
+    margin-left: 0;
+    width: 50px;
+    height: 50px;
+    background: #6ac990;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.quick-link h2{
+    font-size: 50px;
+    color: #000;
+    padding: 10px 0px 10px 25px;
+}
+.quick-link a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    color: #000;
+}
+.quick-link a:hover{
+    color: #6ac990;
+}
+
+.support-link h2{
+    font-size: 50px;
+    color: #000;
+    padding: 10px 0px 10px 25px;
+}
+.support-link ul{
+    list-style: none;
+}
+.support-link a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    color: #000;
+}
+.support-link a:hover{
+    color: #6ac990;
+}
+
+/*copyright*/
+.copyright{
+    background: #6ac990;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.copyright p{
+    font-size: 20px;
+}
